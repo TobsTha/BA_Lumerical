@@ -1,0 +1,10 @@
+Next possible steps include:
+
+- the simulation of curved gratings with the gauss source at phi = 0.
+- find optimized values for the FDTD solver size, C1, the distance between x=0 and the first grating, the grating angle phi_grating.
+- include also the two tapers in the optimization process (for this it would also be possible to fit a guassian at the incoupled light intensity at x = 0
+to inject the corresponding sourc directly in front of the tapers to optimizee them. 
+
+- small adaptation of the phi = 45 degree angle. At phi = 45 degree, the gratings focos on z \approx 2.8 and not 0 as it should be for efficient coupling.
+
+- after that, a new simulation employing two of these GCs at 45 degree over each other has to be designed.
