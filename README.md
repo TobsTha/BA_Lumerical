@@ -2,6 +2,7 @@
 This repository contains important files and information used for the simulations of the BA-project.
 
 # Sim_latestVersion.fsp
+This file includes the simulation file of the newest simulation setup I used. This file includes:
 
 Material stack Structure Group:
 This is latest version of the simulation model created in Lumerical.
@@ -16,4 +17,4 @@ The parameters which can be accessed in the variable section can be seen at the 
 ![grafik](https://github.com/TobsTha/BA_Lumerical/assets/116896852/74258296-5d44-4a2a-9dd0-71a9f718db8c)
 This analysis group is intended to be used for further optimization of the the tapers, the exact source alignment among others.
 
-Appart from the FDTD simulation region and the mesh override regions all other elements of the simulations are monitors intended to collect useful data during simulations.
+Appart from the FDTD simulation region and the mesh override regions all other activated elements of the simulations are monitors intended to collect useful data during simulations.
