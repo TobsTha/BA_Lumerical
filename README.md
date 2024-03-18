@@ -3,8 +3,8 @@ This repository contains important files and information used for the simulation
 
 # Sim_latestVersion.fsp
 
-Material stack Structure Grou0:
-Thsi is latest version of the simulation model created in Lumerical.
+Material stack Structure Group:
+This is latest version of the simulation model created in Lumerical.
 The Material stack contains structure group contains the base/substrate, Box, Cladding and the SiN layer for positive x.
 To create gratings, this SiN is overwritten with SiO2 material. The size of the stack can be adapted in the properties section.
 
