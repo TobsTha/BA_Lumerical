@@ -1,0 +1,1 @@
+This simulation was used to simulate less than 1.5dB loss for rotating the incoupling source around 45 degree out of the palne defined by the symmetie axis of the grating coupler (z=0) and the normal to the chip. 
