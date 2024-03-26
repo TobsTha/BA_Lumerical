@@ -21,9 +21,11 @@ This analysis group is intended to be used for further optimization of the the t
 
 Appart from the FDTD simulation region and the mesh override regions all other activated elements of the simulations are monitors, intended to collect useful data during simulations.
 
+The grating parameters were chosen to match the ones of the 5.65 degree 2D setup (because then, the PSGC matches the apodization angle of 8 degree): period: 892nm, distance from waist: d_w = 190 microns, x-position: d_x = 19 microns, initial filling factor: 0.95, final filling factor: 0.349. Then circular gratings were imployed and a setup of 2 tapers were added for confining in in transverse direction. The incoupling source wath rotatet around 45 degrees out of the plane definde by the symmetry axis of the gratings and the normal to the chip.
 The design of the Grating Coupler including the first taper looks like that (the image monitor was used to create the picture before adding some labels in Powerpoint):
 
 ![FinalDesign](https://github.com/TobsTha/BA_Lumerical/assets/116896852/52963efd-1b9a-4966-a4d7-13864070ffe2)
 
-The polarization angle dependence was simulated to be sine-like as expected:
+The polarization angle dependency was simulated to be sine-like as expected:
 
+[polarization.pdf](https://github.com/TobsTha/BA_Lumerical/files/14759617/polarization.pdf)
