@@ -21,4 +21,5 @@ This analysis group is intended to be used for further optimization of the the t
 Appart from the FDTD simulation region and the mesh override regions all other activated elements of the simulations are monitors, intended to collect useful data during simulations.
 
 The design of the Grating Coupler including the first taper looks like that (the image monitor was used to create the picture before adding some labels in Powerpoint):
+
 ![FinalDesign](https://github.com/TobsTha/BA_Lumerical/assets/116896852/52963efd-1b9a-4966-a4d7-13864070ffe2)
