@@ -28,4 +28,4 @@ The design of the Grating Coupler including the first taper looks like that (the
 
 The polarization angle dependency was simulated to be sine-like as expected:
 
-[polarization.pdf](https://github.com/TobsTha/BA_Lumerical/files/14759617/polarization.pdf)
+![polarization](https://github.com/TobsTha/BA_Lumerical/assets/116896852/42eef509-9ad8-482a-b47c-e52136e7ff35)
